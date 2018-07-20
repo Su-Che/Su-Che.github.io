@@ -1,42 +1,65 @@
-header#header{
-  color: #cd004a;
-  background: #fff;
-  .page-spacer{
-    padding-top: 20px;
-  }
-  .header-text{
-    h1{
-      font-size: $header-name;
-      font-weight: normal;
-      font-style: italic;
-      margin: 0;
-      padding: 0;
-      color: $header-name-text-color;
-    }
-  }
-  .logo-container{
-    float: left;
-    margin-right: 10px;
-  }
-  .contact-details{
-    text-align: center;
-    margin-top: 10px;
-    font-style: italic;
-    @media (min-width: 510px){
-      float: right;
-      text-align: right;
-      margin-top: 0;
-    }
-  }
-  .designation{
-    font-size: 10px;
-  }
+header#header .page-spacer {
+  padding-top: 16px;
 }
 
-.logo-header-container{
+header#header .header-text h1 {
+  font-size: 24px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+header#header .main-header-text h1{
+  font-size: 24px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  color: #C3005A;
+}
+
+header#header .logo-container {
+  float: left;
+  margin-right: 10px;
+  width: 44px;
+  height: 32px;
+}
+
+header#header .logo-link {
+  text-decoration: none;
+}
+
+header#header .sub-header {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  text-decoration: none;
+  padding: 8px;
+  display: inline-block;
+  text-align: right;
+}
+
+header#header .main-sub-header {
+  color: #C3005A;
+  font-size: 16px;
+  font-weight: 300;
+  text-decoration: none;
+  padding: 8px;
+  display: inline-block;
+  text-align: right;
+}
+
+
+header#header .navigation{
+  float: right;
+  position:relative;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -35px;
+  padding: 0 0 0 0;
+}
+
+.logo-header-container {
   float: none;
-  @media (min-width: 500px){
-    float: left;
-    min-width: 300px;
-  }
 }
