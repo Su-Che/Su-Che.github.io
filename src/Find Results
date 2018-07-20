@@ -1,0 +1,360 @@
+Searching 52 files for "page-spacer"
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/blackbottle.html:
+   37    <section id="project-blackbottle">
+   38      <header id="header" class="clearfix">
+   39:       <div class="page-spacer">
+   40          <div class="logo-header-container">
+   41            <div class="logo-container">
+   ..
+   47            </div>
+   48          </div>
+   49:         <nav class="navigation">
+   50            <a class="sub-header" href="#footer">GET IN TOUCH</a>
+   51          </nav>
+   ..
+   55       <img class="delivery-van" src="img/Yodel-Head.png" alt="blackbottle-van"> 
+   56     </div>
+   57:    <div class="project-row page-spacer">
+   58      <div class="project-block" id="guide">
+   59        <p class="title" id="year-title">Year</p>
+   ..
+   72  
+   73    <section class="project-section" id="blackbottle-problem-bg">
+   74:     <div class="page-spacer">
+   75        <div class="project-description-section blackbottle-problem">
+   76          <h1 class="section-header">Problem</h1>
+   ..
+   81  
+   82    <section class="project-section" id="process">
+   83:     <div class="page-spacer">
+   84        <div class="project-description-section">
+   85          <h1 class="section-header">Field Research</h1>
+   ..
+   93  
+   94    <section class="project-section" id="Exp-map">
+   95:     <div class="page-spacer">
+   96        <div class="project-description-section">
+   97          <h1 class="section-header">Experience Mapping</h1>
+   ..
+  105  
+  106    <section class="project-section" id="story-telling">
+  107:     <div class="page-spacer">
+  108        <div class="project-description-section">
+  109          <h1 class="section-header">Tell a story</h1>
+  ...
+  117  
+  118    <section class="project-section" id="service-mapping">
+  119:     <div class="page-spacer">
+  120        <div class="project-description-section">
+  121          <h1 class="section-header">Service Mapping</h1>
+  ...
+  130  
+  131      <section class="project-section" id="service-tasks">
+  132:     <div class="page-spacer">
+  133        <div class="project-description-section">
+  134          <h1 class="section-header">Task prioritisation & Execution</h1>
+  ...
+  140  
+  141    <footer id="footer" class="clearfix">
+  142:     <div class="page-spacer">
+  143        <header><span>Let&apos;s have a chat</span></header>
+  144        <div class="communication">
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/darla.html:
+   37    <section id="project-darla">
+   38      <header id="header" class="clearfix">
+   39:       <div class="page-spacer">
+   40          <div class="logo-header-container">
+   41            <div class="logo-container">
+   ..
+   47            </div>
+   48          </div>
+   49:         <nav class="navigation">
+   50            <a class="sub-header" href="#footer">GET IN TOUCH</a>
+   51          </nav>
+   ..
+   53      </header>
+   54  
+   55:    <div class="project-row page-spacer">
+   56      <div class="project-block" id="guide">
+   57        <p class="title" id="year-title">Year</p>
+   ..
+   70  
+   71    <section class="project-section">
+   72:     <div class="page-spacer">
+   73        <div class="project-description-section Football-problem">
+   74          <h1 class="section-header">Problem</h1>
+   ..
+   79  
+   80    <section class="project-section" id="football-process">
+   81:     <div class="page-spacer">
+   82        <div class="project-description-section">
+   83          <h1 class="section-header">Process</h1>
+   ..
+   87    </section>
+   88  
+   89:   <section class="project-section page-spacer" id="challenges">
+   90:     <div class="page-spacer">
+   91        <div class="project-description-section">
+   92          <h1 class="section-header">Training Challenges</h1>
+   ..
+   97  
+   98    <section class="project-section" id="setup">
+   99:     <div class="page-spacer">
+  100        <div class="project-description-section">
+  101          <h1 class="section-header">Setting the field</h1>
+  ...
+  107  
+  108    <section class="project-section" id="training">
+  109:     <div class="page-spacer">
+  110        <div class="project-description-section">
+  111          <h1 class="section-header">Thoughtful Integrations</h1>
+  ...
+  117  
+  118      <section class="project-section" id="champion">
+  119:     <div class="page-spacer">
+  120        <div class="project-description-section">
+  121          <h1 class="section-header">Addictive Experiences</h1>
+  ...
+  127  
+  128    <footer id="footer" class="clearfix">
+  129:     <div class="page-spacer">
+  130        <header><span>Let&apos;s have a chat</span></header>
+  131        <div class="communication">
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/flighttracker.html:
+   37    <section id="project-tracker">
+   38      <header id="header" class="clearfix">
+   39:       <div class="page-spacer">
+   40          <div class="logo-header-container">
+   41            <div class="logo-container">
+   ..
+   47            </div>
+   48          </div>
+   49:         <nav class="navigation">
+   50            <a class="sub-header" href="#footer">GET IN TOUCH</a>
+   51          </nav>
+   ..
+   53      </header>
+   54  
+   55:    <div class="project-row page-spacer">
+   56      <div class="project-block" id="guide">
+   57        <p class="title" id="year-title">Year</p>
+   ..
+   70  
+   71    <section class="project-section">
+   72:     <div class="page-spacer">
+   73        <div class="project-description-section Airport-problem">
+   74          <h1 class="section-header">Problem</h1>
+   ..
+   79  
+   80    <section class="project-section" id="airport-process">
+   81:     <div class="page-spacer">
+   82        <div class="project-description-section">
+   83          <h1 class="section-header">Process</h1>
+   ..
+   87    </section>
+   88  
+   89:   <section class="project-section page-spacer" id="tracking">
+   90:     <div class="page-spacer">
+   91        <div class="project-description-section">
+   92          <h1 class="section-header">Tracking Flights</h1>
+   ..
+  105  
+  106    <section class="project-section" id="outcome">
+  107:     <div class="page-spacer">
+  108        <div class="project-description-section">
+  109          <h1 class="section-header">Outcome</h1>
+  ...
+  115  
+  116    <footer id="footer" class="clearfix">
+  117:     <div class="page-spacer">
+  118        <header><span>Let&apos;s have a chat</span></header>
+  119        <div class="communication">
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/index.html:
+   37    <section id="hello">
+   38      <header id="header" class="clearfix">
+   39:       <div class="page-spacer">
+   40          <div class="logo-header-container">
+   41            <div class="logo-container">
+   ..
+   53        </div>
+   54      </header>
+   55:     <div class="page-spacer whoami" id="suche">
+   56        <h1 class="section-header">Knowledge, Heart &amp Soul</h1>
+   57        <p>Product Designer with a love for powerful and elegant designs. Always open to opportunities to positively impact people with my designs, working with Knowledge, Heart &amp Soul into them.</p>
+   ..
+   60  
+   61    <section class="project-section" id="football-club">
+   62:     <div class="page-spacer">
+   63        <div class="project-blurb" id="project-description">
+   64          <h3 class="project-name">Football Club</h3>
+   ..
+   71  
+   72    <section class="project-section" id="parcel-delivery">
+   73:     <div class="page-spacer">
+   74        <div class="project-blurb" id="project-description">
+   75          <h3 class="project-name">Blackbottle</h3>
+   ..
+   82  
+   83    <section class="project-section" id="project-guide">
+   84:     <div class="page-spacer">
+   85       <div class="project-blurb" id="project-description">
+   86        <h3 class="project-name">Fashionista</h3>
+   ..
+   94  
+   95    <section class="project-section" id="project-airport">
+   96:     <div class="page-spacer">
+   97       <div class="project-blurb" id="project-description">
+   98        <h3 class="project-name">Flight tracker</h3>
+   ..
+  106  
+  107    <footer id="footer" class="clearfix">
+  108:     <div class="page-spacer">
+  109        <header><span>Let&apos;s have a chat</span></header>
+  110        <div class="communication">
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/thread.html:
+   37    <section id="project-thread">
+   38      <header id="header" class="clearfix">
+   39:       <div class="page-spacer">
+   40          <div class="logo-header-container">
+   41            <div class="logo-container">
+   ..
+   46              <h1>SuChe</h1>
+   47            </div>
+   48:           <nav class="navigation page-spacer">
+   49              <a class="sub-header" href="#footer">GET IN TOUCH</a>
+   50            </nav>
+   ..
+   53      </header>
+   54  
+   55:     <div class="project-row page-spacer">
+   56        <div class="project-block" id="guide">
+   57          <p class="title" id="year-title">Year</p>
+   ..
+   70  
+   71    <section class="project-section" id="problem">
+   72:     <div class="page-spacer">
+   73        <div class="project-description-section">
+   74          <h1 class="section-header">Problem</h1>
+   ..
+   79  
+   80    <section class="project-section" id="thread-process">
+   81:     <div class="page-spacer">
+   82        <div class="project-description-section">
+   83          <h1 class="section-header">Process</h1>
+   ..
+   88  
+   89    <section class="project-section" id="journey-map">
+   90:     <div class="page-spacer">
+   91        <div class="project-description-section">
+   92          <h1 class="section-header">Emotional Journey Map</h1>
+   ..
+  100  
+  101    <section class="project-section" id="design-thinking">
+  102:     <div class="page-spacer">
+  103        <div class="project-description-section">
+  104          <h1 class="section-header">Problem prioritisation & Ideation</h1>
+  ...
+  109  
+  110    <section class="project-section" id="recommendation">
+  111:     <div class="page-spacer">
+  112        <div class="project-description-section">
+  113          <h1 class="section-header">Recommendations</h1>
+  ...
+  123  
+  124      <section class="project-section" id="shop-around">
+  125:     <div class="page-spacer">
+  126        <div class="project-description-section">
+  127          <p class="subtext">Shop around the corner:</p>
+  ...
+  132  
+  133    <section class="project-section" id="recommendation">
+  134:     <div class="page-spacer">
+  135        <div class="project-description-section">
+  136          <p class="subtext">Insta Store credits:</p>
+  ...
+  145  
+  146    <footer id="footer" class="clearfix">
+  147:     <div class="page-spacer">
+  148        <header><span>Let&apos;s have a chat</span></header>
+  149        <div class="communication">
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/stylesheet/component/footer/_style.scss:
+    4    color: #fff;
+    5    @include selection($footer-background);
+    6:   .page-spacer{
+    7      padding: 140px 0;
+    8    }
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/stylesheet/component/global/layout/_style.scss:
+    1: .page-spacer{
+    2    padding: $mobile-page-spacing;
+    3    @media (min-width: 687px){
+    .
+   16    }
+   17  }
+   18: #hello .page-spacer.whoami{
+   19    width: 100%;
+   20    @media (min-width: 960px){
+   ..
+  112  }
+  113  
+  114: .page-spacer {
+  115    padding: 8%;
+  116  }
+  ...
+  149  }
+  150  
+  151: header#header .page-spacer {
+  152    padding-top: 16px;
+  153  }
+  ...
+  327  }
+  328  
+  329: #football-club .page-spacer:hover{
+  330    background-color: rgba(0, 93, 172, 0.60);
+  331    min-height: 100%;
+  ...
+  344  }
+  345  
+  346: #parcel-delivery .page-spacer:hover{
+  347    background-color: rgba(195, 0, 90, 0.80);
+  348    min-height: 570px;
+  ...
+  363  
+  364  
+  365: #project-guide .page-spacer:hover{
+  366    background-color: rgba(80, 49, 170, 0.80);
+  367    min-height: 100%;
+  ...
+  377    align-items: center;  
+  378  }
+  379: #project-airport .page-spacer:hover{
+  380    background-color: rgba(0, 137, 128, 0.60);
+  381    min-height: 570px;
+  ...
+  633    color: rgba(74, 73, 74, 0.9);
+  634  }
+  635: #footer .page-spacer {
+  636    padding: 140px 0;
+  637  }
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/stylesheet/component/header/_style.scss:
+    1  header#header{
+    2    color: #cd004a;
+    3:   .page-spacer{
+    4      padding-top: 20px;
+    5    }
+
+/Users/suganthc/Desktop/Su-Che.github.io/src/stylesheet/component/project/_style.scss:
+   47  @each $id, $ipad-text-spacing, $mobile-text-spacing in $project-mobile-view-text-spacing{
+   48    ##{$id}{
+   49:     .page-spacer{
+   50        @media (max-width: 687px){
+   51          padding-top: $mobile-text-spacing;
+
+60 matches across 9 files

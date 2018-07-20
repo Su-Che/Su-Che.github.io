@@ -23,13 +23,13 @@
   "devDependencies": {
     "del": "^2.2.0",
     "gulp": "^3.9.1",
-    "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-watch": "^4.3.5",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.1.5"
   },
   "dependencies": {
+    "gulp-compass": "^2.1.0",
     "jquery": "^2.2.1",
     "normalize.css": "^3.0.3",
     "requirejs": "^2.1.22"

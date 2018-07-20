@@ -60,7 +60,7 @@ gulp.task('vendor-styles', function(){
 });
 
 gulp.task('compass', function(){
-  gulp.src('src/stylesheet/**/*.scss')
+  gulp.src('src/stylesheet/component/style.scss')
       .pipe(compass({
                 config_file: './compass.rb',
                 css: 'dist/stylesheet/', // give the output css file location
