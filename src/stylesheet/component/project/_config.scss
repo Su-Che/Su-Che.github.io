@@ -2,7 +2,6 @@ $lighter-text-color: #ededed;
 
 // $project-background: (id, background-color, background-image, $heading-text-color, $body-text-color);
 $project-background:(
-  (hello, #fafafa, none, $body-text-color, $body-text-color),
   (springer, #00244e, url(../img/section-background/adis-mock.png), #f0890f, $lighter-text-color),
   (vikalp, #fff, url(../img/section-background/vikalp.png), #9f332f, $body-text-color),
   (jetairways, #00244e, url(../img/section-background/jet-airways.png), #f8af00, $lighter-text-color),
