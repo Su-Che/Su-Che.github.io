@@ -104,8 +104,24 @@ body ::selection {
   background-color: #008980;
 }
 
+.superstore {
+ background-color: #D0021B; 
+}
+
+.Bumblebee{
+  background-color: #000;
+}
+
 .section-header {
   font-size: 32px;
+  margin-bottom: 36px;
+  color: #fff;
+  line-height: 1.1em;
+}
+
+.sub-head {
+  font-size: 24px;
+  font-weight: 300;
   margin-bottom: 36px;
   color: #fff;
   line-height: 1.1em;
@@ -147,6 +163,9 @@ body ::selection {
   text-align: left;
 }
 
+.small{
+  font-size: .8rem;
+}
 @media only screen and (max-width: 600px) {
   .copy {
     width: 100%;
@@ -240,6 +259,22 @@ body ::selection {
 
 #project-tracker {
   background-image: url(../img/section-background-t/Airport.png);
+  height: 1024px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#project-superstore {
+  background-image: url(../img/section-background-t/superstore-head.png);
+  height: 1024px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#project-bumblebee {
+  background-image: url(../img/section-background-t/bumblebee-head.png);
   height: 1024px;
   background-repeat: no-repeat;
   width: 100%;
@@ -371,6 +406,68 @@ body ::selection {
   background-color: rgba(0, 0, 0, 0.7);
   padding: 16px;
   width: 64%;
+}
+
+#SuperStore-problem{
+  height: 800px;
+}
+
+#SuperStore-research{
+  background-image: url(../img/section-background-t/superstore-research.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#SuperStore-cocreation{
+  background-image: url(../img/section-background-t/SuperStore-cocreation.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+
+#SuperStore-Outcomes{
+  background-image: url(../img/section-background-t/superstore-outcomes.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#Bumblebee-research{
+  background-image: url(../img/section-background-t/bumblebee-analysis.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#Bumblebee-character{
+  background-image: url(../img/section-background-t/bumblebee-character.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#Bumblebee-responses{
+  background-image: url(../img/section-background-t/bumblebee-responses.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+
+#Bumblebee-roleplay{
+  background-image: url(../img/section-background-t/bumblebee-roleplay.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
 }
 
 #football-process {
