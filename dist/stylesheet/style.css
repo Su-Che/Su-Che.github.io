@@ -105,23 +105,15 @@ body ::selection {
 }
 
 .superstore {
- background-color: #D0021B; 
+  background-color: #D0021B;
 }
 
-.Bumblebee{
+.Bumblebee {
   background-color: #000;
 }
 
 .section-header {
   font-size: 32px;
-  margin-bottom: 36px;
-  color: #fff;
-  line-height: 1.1em;
-}
-
-.sub-head {
-  font-size: 24px;
-  font-weight: 300;
   margin-bottom: 36px;
   color: #fff;
   line-height: 1.1em;
@@ -163,9 +155,10 @@ body ::selection {
   text-align: left;
 }
 
-.small{
+.small {
   font-size: .8rem;
 }
+
 @media only screen and (max-width: 600px) {
   .copy {
     width: 100%;
@@ -408,11 +401,11 @@ body ::selection {
   width: 64%;
 }
 
-#SuperStore-problem{
+#SuperStore-problem {
   height: 800px;
 }
 
-#SuperStore-research{
+#SuperStore-research {
   background-image: url(../img/section-background-t/superstore-research.png);
   height: 800px;
   background-repeat: no-repeat;
@@ -420,7 +413,7 @@ body ::selection {
   align-items: center;
 }
 
-#SuperStore-cocreation{
+#SuperStore-cocreation {
   background-image: url(../img/section-background-t/SuperStore-cocreation.png);
   height: 800px;
   background-repeat: no-repeat;
@@ -428,8 +421,7 @@ body ::selection {
   align-items: center;
 }
 
-
-#SuperStore-Outcomes{
+#SuperStore-Outcomes {
   background-image: url(../img/section-background-t/superstore-outcomes.png);
   height: 800px;
   background-repeat: no-repeat;
@@ -437,7 +429,7 @@ body ::selection {
   align-items: center;
 }
 
-#Bumblebee-research{
+#Bumblebee-research {
   background-image: url(../img/section-background-t/bumblebee-analysis.png);
   height: 800px;
   background-repeat: no-repeat;
@@ -445,7 +437,7 @@ body ::selection {
   align-items: center;
 }
 
-#Bumblebee-character{
+#Bumblebee-character {
   background-image: url(../img/section-background-t/bumblebee-character.png);
   height: 800px;
   background-repeat: no-repeat;
@@ -453,7 +445,7 @@ body ::selection {
   align-items: center;
 }
 
-#Bumblebee-responses{
+#Bumblebee-responses {
   background-image: url(../img/section-background-t/bumblebee-responses.png);
   height: 800px;
   background-repeat: no-repeat;
@@ -461,8 +453,7 @@ body ::selection {
   align-items: center;
 }
 
-
-#Bumblebee-roleplay{
+#Bumblebee-roleplay {
   background-image: url(../img/section-background-t/bumblebee-roleplay.png);
   height: 800px;
   background-repeat: no-repeat;
