@@ -240,6 +240,33 @@ color: #fff;
   height: auto;
 }
 
+#bumblebee-main{
+  background-image: url(../img/section-background-t/bumblebee.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  align-items: center;
+}
+
+#bumblebee-main .page-spacer:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  min-height: 100%;
+}
+
+#superstore-main{
+  background-image: url(../img/section-background-t/Superstore.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  align-items: center;
+}
+
+#superstore-main .page-spacer:hover {
+  background-color: rgba(208, 2, 27, 0.8);
+  min-height: 100%;
+}
 
 #football-club{
   background-image: url(../img/section-background-t/project-football.png);
@@ -381,8 +408,7 @@ color: #fff;
   align-items: center;
 }
  
- 
-#SuperStore-Outcomes{
+#SuperStore-usertesting {
   background-image: url(../img/section-background-t/superstore-outcomes.png);
   height: 800px;
   background-repeat: no-repeat;
