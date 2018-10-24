@@ -698,6 +698,15 @@ body ::selection {
   width: 64%;
 }
 
+#journey-map {
+  background-image: url(../img/section-background-t/Fashionista-emotions.png);
+  height: 1024px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  align-items: center;
+}
+
 /*version 3.0 end */
 #footer {
   text-align: center;
