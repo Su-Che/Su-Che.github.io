@@ -489,7 +489,6 @@ body ::selection {
   align-items: center;
 }
 
-
 #challenges {
   background-image: url(../img/section-background-t/Darla-challenge.png);
   height: 800px;
@@ -685,7 +684,7 @@ body ::selection {
   font-weight: 300;
 }
 
-#football-approach{
+#football-approach {
   background-image: url(../img/section-background-t/darla-prototyping.png);
   background-repeat: no-repeat;
   width: 100%;
