@@ -228,7 +228,6 @@ body ::selection {
   text-decoration: none;
 }
 
-
 .button-text {
   text-decoration: none;
 }
@@ -490,19 +489,6 @@ body ::selection {
   align-items: center;
 }
 
-#football-process {
-  background-image: url(../img/section-background-t/football-process-1.png);
-  height: 800px;
-  background-repeat: no-repeat;
-  width: auto;
-  align-items: center;
-}
-
-#football-process .project-description-section {
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 16px;
-  width: 64%;
-}
 
 #challenges {
   background-image: url(../img/section-background-t/Darla-challenge.png);
@@ -676,8 +662,7 @@ body ::selection {
 }
 
 /* version 3.0 */
-
-#airport-usertesting{
+#airport-usertesting {
   background-image: url(../img/section-background-t/airport-usertesting.png);
   background-repeat: no-repeat;
   width: 100%;
@@ -700,8 +685,21 @@ body ::selection {
   font-weight: 300;
 }
 
-/*version 3.0 end */
+#football-approach{
+  background-image: url(../img/section-background-t/darla-prototyping.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  color: #fff;
+  align-items: center;
+}
 
+#football-approach .project-description-section {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 16px;
+  width: 64%;
+}
+
+/*version 3.0 end */
 #footer {
   text-align: center;
   background: rgba(74, 73, 74, 0.9);
