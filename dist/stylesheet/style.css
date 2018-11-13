@@ -742,6 +742,28 @@ body ::selection {
   background-color: #02155C;
 }
 
+#discover-main {
+  background-image: url(../img/section-background-t/discover-main.png);
+  height: 800px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  align-items: center;
+}
+
+#discover-main .page-spacer:hover {
+  background-color: rgba(2, 21, 92, 0.8);
+  height: 800px;
+}
+
+#discover-main .case-study-button {
+  color: #02155C;
+}
+
+#bumblebee-main .case-study-button {
+  color: #000;
+}
+
 /* drug-discovery end */
 #footer {
   text-align: center;
