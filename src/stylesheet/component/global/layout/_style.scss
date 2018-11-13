@@ -674,6 +674,43 @@ margin-bottom: 4px !important;
 
 /*version 3.0 end */
 
+/* drug-discovery start */
+
+#project-drug{
+  background-image: url(../img/section-background-t/Drug-discovery.png);
+  height: 1024px;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+}
+
+#Drug-Outcome{
+  background-image: url(../img/section-background-t/Drugdiscovery-outcome.png);
+  background-repeat: no-repeat;
+  height: 100%;
+  align-items: center;
+}
+
+#Drug-process{
+  background-image: url(../img/section-background-t/Drugdiscovery-process.png);
+  background-repeat: no-repeat;
+  height: 100%;
+  align-items: center;
+}
+
+#Drug-design{
+  background-image: url(../img/section-background-t/Drugdiscovery-design.png);
+  background-repeat: no-repeat;
+  height: 100%;
+  align-items: center;
+}
+
+.Drug-discovery{
+  background-color: #02155C;
+}
+
+/* drug-discovery end */
+
 #footer {
   text-align: center;
   background: rgba(74, 73, 74, 0.9);
